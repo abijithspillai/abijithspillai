@@ -74,7 +74,7 @@
 
 ## 📫 Connect With Me  
 
-📧 Email: **abijithspillai2028@cs.ajce.in**  
+📧 Email: **abijithsatheeshpillai@gmail.com**  
 🔗 LinkedIn: **https://linkedin.com/in/abijithspillai**  
 🌐 Portfolio: **https://abijithspillai.github.io/portfolio/**  
 

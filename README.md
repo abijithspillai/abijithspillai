@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Abijith%20S%20Pillai-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abijithspillai2028@cs.ajce.in">
-    <img src="https://img.shields.io/badge/Email-abijithspillai2028%40cs.ajce.in-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-abijithsatheeshpillai@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/abijithspillai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-abijithspillai-black?style=for-the-badge&logo=github" />

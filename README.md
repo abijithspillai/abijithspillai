@@ -49,11 +49,6 @@
 
 ---
 
-## Website
-
-**https://abijithspillai.vip**  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -76,7 +71,7 @@
 
 📧 Email: **abijithsatheeshpillai@gmail.com**  
 🔗 LinkedIn: **https://linkedin.com/in/abijithspillai**  
-🌐 Portfolio: **https://abijithspillai.github.io/portfolio/**  
+🌐 Portfolio: **https://abijithspillai.vip**  
 
 ---
 

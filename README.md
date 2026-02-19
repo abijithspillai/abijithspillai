@@ -49,15 +49,9 @@
 
 ---
 
-## 📌 Projects  
+## Website
 
-### 🌐 Personal Portfolio Website  
-✅ Built a responsive portfolio website deployed using **Firebase Hosting**  
-✅ Integrated **Firestore** for dynamic content management  
-✅ Used **Cloudinary API** for optimized media delivery  
-
-🔗 Live Demo: **https://abijithspillai.github.io/portfolio/**  
-📂 Source Code: **https://github.com/abijithspillai/portfolio/**  
+**https://abijithspillai.vip**  
 
 ---
 

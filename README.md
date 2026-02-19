@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Abijith S Pillai  
 
-<!--
-**abijithspillai/abijithspillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Back-End Developer | 🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+I’m a passionate computer science student who enjoys building reliable and scalable back-end systems.  
+I have a strong interest in server-side logic, database management, and API development, and I’m eager to apply what I’ve learned in real-world projects and internships.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills  
+
+### Programming Languages  
+- Python  
+- Java  
+- C  
+
+### Databases  
+- MySQL  
+- Firebase  
+
+### Tools & Technologies  
+- Git & GitHub  
+- Firebase Hosting  
+- Firestore  
+- n8n  
+- Linux Command Line  
+- Cloudinary API  
+
+### Soft Skills  
+- Problem Solving  
+- Quick Learner  
+- Clean Code Practices  
+
+---
+
+## 📌 Projects  
+
+### 🌐 Personal Portfolio Website  
+- Built a responsive portfolio website deployed using Firebase Hosting (serverless architecture)  
+- Integrated Firebase Firestore for dynamic content management  
+- Used Cloudinary API for optimized media delivery  
+
+🔗 Live: https://abijithspillai.github.io/portfolio/  
+📂 Source Code: https://github.com/abijithspillai/portfolio/  
+
+---
+
+## 📫 Connect With Me  
+
+📧 Email: abijithspillai2028@cs.ajce.in  
+🔗 LinkedIn: https://linkedin.com/in/abijithspillai  
+🐙 GitHub: https://github.com/abijithspillai  
+
+---
+⭐ Feel free to check out my repositories and projects!

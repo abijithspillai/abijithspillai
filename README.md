@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/abijithspillai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abijith%20S%20Pillai-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:abijithspillai2028@cs.ajce.in">
+  <a href="mailto:abijithsatheeshpillai@gmail.com">
     <img src="https://img.shields.io/badge/Email-abijithsatheeshpillai@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/abijithspillai" target="_blank">

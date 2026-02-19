@@ -1,55 +1,89 @@
-# Hi there 👋 I'm Abijith S Pillai  
+<h1 align="center">Hi 👋, I'm Abijith S Pillai</h1>
+<h3 align="center">Back-End Developer | CS Student | Aspiring Software Engineer 🚀</h3>
 
-🎓 Computer Science Student | 💻 Back-End Developer | 🚀 Aspiring Software Engineer  
-
-I’m a passionate computer science student who enjoys building reliable and scalable back-end systems.  
-I have a strong interest in server-side logic, database management, and API development, and I’m eager to apply what I’ve learned in real-world projects and internships.  
+<p align="center">
+  <a href="https://linkedin.com/in/abijithspillai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abijith%20S%20Pillai-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abijithspillai2028@cs.ajce.in">
+    <img src="https://img.shields.io/badge/Email-abijithspillai2028%40cs.ajce.in-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/abijithspillai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abijithspillai-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Skills  
+## 👨‍💻 About Me  
 
-### Programming Languages  
-- Python  
-- Java  
-- C  
+🎓 I'm a Computer Science student passionate about building **scalable and reliable back-end systems**.  
+⚡ Interested in **server-side development, APIs, database management, and cloud tools**.  
+🌱 Always learning and improving by building projects.  
+💡 I love writing **clean, efficient, and easy-to-understand code**.
 
-### Databases  
-- MySQL  
-- Firebase  
+---
 
-### Tools & Technologies  
-- Git & GitHub  
-- Firebase Hosting  
-- Firestore  
-- n8n  
-- Linux Command Line  
-- Cloudinary API  
+## 🛠️ Tech Stack  
 
-### Soft Skills  
-- Problem Solving  
-- Quick Learner  
-- Clean Code Practices  
+### 🚀 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
+
+### ☁️ Cloud / Other Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-orange?style=for-the-badge&logo=n8n" />
+</p>
 
 ---
 
 ## 📌 Projects  
 
 ### 🌐 Personal Portfolio Website  
-- Built a responsive portfolio website deployed using Firebase Hosting (serverless architecture)  
-- Integrated Firebase Firestore for dynamic content management  
-- Used Cloudinary API for optimized media delivery  
+✅ Built a responsive portfolio website deployed using **Firebase Hosting**  
+✅ Integrated **Firestore** for dynamic content management  
+✅ Used **Cloudinary API** for optimized media delivery  
 
-🔗 Live: https://abijithspillai.github.io/portfolio/  
-📂 Source Code: https://github.com/abijithspillai/portfolio/  
+🔗 Live Demo: **https://abijithspillai.github.io/portfolio/**  
+📂 Source Code: **https://github.com/abijithspillai/portfolio/**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abijithspillai&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abijithspillai&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abijithspillai&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
 
-📧 Email: abijithspillai2028@cs.ajce.in  
-🔗 LinkedIn: https://linkedin.com/in/abijithspillai  
-🐙 GitHub: https://github.com/abijithspillai  
+📧 Email: **abijithspillai2028@cs.ajce.in**  
+🔗 LinkedIn: **https://linkedin.com/in/abijithspillai**  
+🌐 Portfolio: **https://abijithspillai.github.io/portfolio/**  
 
 ---
-⭐ Feel free to check out my repositories and projects!
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*

@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3>Front-End Developer | CS Student | Aspiring Software Engineer 🚀</h3>
+<h3>Back-End Developer | CS Student | Aspiring Software Engineer 🚀</h3>
 
 <p>
   <a href="https://abijithspillai.vip" target="_blank">

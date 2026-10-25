@@ -94,19 +94,9 @@ status: Always learning, always building 🌱
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abijithspillai&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/0e75b6/abijithspillai" alt="Contribution Chart" width="90%" />
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abijithspillai&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-</div>
-</details>
 
 <br/>
 
